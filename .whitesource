@@ -3,7 +3,10 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "versioning": {    
+      "python": "3.12.0" 
+    }   
   },
   "scanSettingsSAST": {
     "enableScan": true,
