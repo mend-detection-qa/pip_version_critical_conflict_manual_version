@@ -35,7 +35,7 @@
       "direct_dependencies_names_list": {
         "eq": [
           "typing_extensions-4.15.0-py3-none-any.whl",
-          "tomli-2.4.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
+          "tomli-2.4.1-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
         ]
       },
       "transitive_dependencies_names_list": {
